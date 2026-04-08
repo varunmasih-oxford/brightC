@@ -81,3 +81,132 @@
 - Smooth handover  
 
 ---
+
+# Trainer Script (Word-by-Word)
+
+## Opening
+
+Hi, I am [Your Name], a coding instructor with BrightChamps. Thank you for joining today!
+
+Could you please invite your parents to join the class?
+
+---
+
+## Parent Interaction
+
+Good [morning/afternoon/evening]! How was your day?
+
+How did you come across BrightChamps?
+
+What are your expectations from this class for your child?
+
+Are you from a coding background?
+
+If NO:
+No worries! Your child is at the perfect age to start learning coding.
+
+BrightChamps focuses on empowering kids with skills like coding, robotics, finance, and entrepreneurship.
+
+---
+
+## Agenda Setting
+
+In today’s class, we will learn coding basics, create a project, and have a small quiz.  
+At the end, I will connect you with our Academic Counselor.
+
+Would you like to stay during the session?
+
+---
+
+## Student Interaction
+
+Hi! My name is [Your Name], and I’ll be your coding teacher today.
+
+Can you tell me your name, age, class, and hobbies?
+
+---
+
+## Fun Activity
+
+Before we start, let’s play a quick game!
+
+---
+
+## Coding Introduction
+
+Have you heard about coding?
+
+Coding means giving instructions to a computer to make it do something.
+
+---
+
+## Platform Introduction
+
+Today we will use Scratch, where we can create games and animations.
+
+---
+
+## Platform Explanation
+
+This is the Block Palette where we get different code blocks.
+
+This is the Script Area where we write our code.
+
+This is the Stage where we see the output.
+
+These are Sprites, which are characters in our project.
+
+---
+
+## Concept Teaching
+
+An algorithm is a step-by-step way to solve a problem.
+
+---
+
+## Project Phase
+
+Now let’s build a project together!
+
+We are using this block because it tells the character what to do.
+
+---
+
+## Quiz + Wrap
+
+Did you enjoy making this project?
+
+Can you tell me what you learned today?
+
+You did an amazing job! You are a quick learner.
+
+Please call your parents.
+
+---
+
+## Parent Closing
+
+Thank you for joining again!
+
+[Student Name], please show your project to your parents.
+
+Your child was very engaged and understood the concepts really well.
+
+---
+
+## Counselor Pitch
+
+Shall I connect you with our Academic Counselor who will guide you further?
+
+---
+
+## Importance of Coding
+
+Coding is everywhere — in mobile apps, websites, and technology we use daily.
+
+---
+
+## Final Handover
+
+Let me introduce you to our Academic Counselor. They will guide you with the next steps.  
+Thank you so much for your time!
