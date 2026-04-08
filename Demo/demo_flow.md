@@ -96,8 +96,18 @@ Could you please invite your parents to join the class?
 
 Good [morning/afternoon/evening]! How was your day?
 
-How did you come across BrightChamps?
+may i know your name please?
 
+my name is Varun, and I am a coding instructor with BrightChamps, with over 5 years of experience in training students in coding skills.
+
+I specialize in helping students understand coding in a simple, interactive, and engaging way. I strongly believe that every child can learn coding when it is taught with the right approach, and that’s what BrightChamps is known for.
+
+In today’s session, I would love to encourage your child to explore coding and build something on their own, making the learning experience both fun and meaningful.
+
+i would love to know 
+How did you *come across BrightChamps*?
+
+and 
 What are your expectations from this class for your child?
 
 Are you from a coding background?
